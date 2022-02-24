@@ -8,7 +8,8 @@ This repository contains:
 - 1 Report
 
 
-Our profiles
+Profiles:
+
 https://github.com/IsabelRodRob13
 
 https://github.com/MaryMP11
