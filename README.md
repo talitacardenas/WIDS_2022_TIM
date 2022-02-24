@@ -6,3 +6,12 @@ This repository contains:
 - 1 notebook
 - 1 CSV prediction file
 - 1 Report
+
+
+Our profiles
+https://github.com/IsabelRodRob13
+
+https://github.com/MaryMP11
+
+https://github.com/talitacardenas
+
